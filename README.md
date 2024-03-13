@@ -4,7 +4,7 @@ You can create your own levels and play or simply play the pre-built levels.
 Download the files and run index.html to play the game, 
 or simply visit the following link.
 
-http://pratishshr.github.io/mario-maker/
+http://tohar2013naftali.github.io/mario-maker/
 
 ## Controls:
 
